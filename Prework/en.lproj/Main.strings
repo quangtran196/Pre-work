@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Bill Amount"; ObjectID = "Aev-dS-NTg"; */
+"Aev-dS-NTg.text" = "Bill Amount";
+
+/* Class = "UILabel"; text = "Tip Percentage"; ObjectID = "PqT-YG-fZC"; */
+"PqT-YG-fZC.text" = "Tip Percentage";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "R5d-T9-3Ph"; */
+"R5d-T9-3Ph.text" = "Total";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SGO-SY-x2q"; */
+"SGO-SY-x2q.text" = "Label";
+
+/* Class = "UISegmentedControl"; c6c-3Y-IGy.segmentTitles[0] = "10%"; ObjectID = "c6c-3Y-IGy"; */
+"c6c-3Y-IGy.segmentTitles[0]" = "10%";
+
+/* Class = "UISegmentedControl"; c6c-3Y-IGy.segmentTitles[1] = "18%"; ObjectID = "c6c-3Y-IGy"; */
+"c6c-3Y-IGy.segmentTitles[1]" = "18%";
+
+/* Class = "UISegmentedControl"; c6c-3Y-IGy.segmentTitles[2] = "20%"; ObjectID = "c6c-3Y-IGy"; */
+"c6c-3Y-IGy.segmentTitles[2]" = "20%";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ejF-g9-509"; */
+"ejF-g9-509.text" = "Label";
